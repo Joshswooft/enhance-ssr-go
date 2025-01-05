@@ -10,7 +10,7 @@ curl -L https://github.com/enhance-dev/enhance-ssr-wasm/releases/download/v0.0.3
 ## Run
 1. Run Server
 ```sh
-go run helloWorld.go
+go run main.go
 ```
 2. load http://localhost:8080
 
